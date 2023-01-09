@@ -1,7 +1,7 @@
 ### Olá! Me chamo Gustavo Martins
 
 - 🔭 Desenvolvedor de jogos na Unity (C#)
-- 🌱 Estudando diversas linguagens como Python, Javascript e Typescript
+- 🌱 Estudando Python, Javascript e Typescript
 
 <div align="center">
   <a href="https://github.com/ydraconic">
