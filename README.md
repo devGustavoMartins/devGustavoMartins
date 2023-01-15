@@ -4,7 +4,7 @@
 - 🌱 Estudando Python, Javascript e Typescript
 
 <div align="center">
-  <a href="https://github.com/ydraconic">
+  <a href="https://github.com/devGustavoMartins">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=devGustavoMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoMartins&layout=compact&theme=dark"/>
 </div>
