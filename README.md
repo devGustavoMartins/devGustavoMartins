@@ -7,14 +7,11 @@
 
 ___
 
-| <img src="https://github-readme-stats.vercel.app/api?username=devGustavoMartins&theme=dark&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=devGustavoMartins&theme=dark" alt="stats" /> |
+| <img height="180px" src="https://github-readme-stats.vercel.app/api?username=devGustavoMartins&theme=dark&show_icons=true" /> | <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoMartins&langs_count=6&theme=dark&layout=compact" /> |
 |:---:|:---:|
 
 ___
 
-<div width="100%" align="center">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoMartins&langs_count=6&theme=dark&layout=compact" />
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
