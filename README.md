@@ -1,7 +1,7 @@
 ### Olá! Me chamo Gustavo Martins
 
 - 🔭 Desenvolvedor de jogos na Unity (C#)
-- 🌱 Estudando Python, Javascript e Typescript
+- 🌱 Estudando Python!
 
 </div>
 
